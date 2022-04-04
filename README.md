@@ -1,3 +1,0 @@
-# BandThang
-
-ahhh
