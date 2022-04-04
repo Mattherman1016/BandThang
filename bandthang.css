@@ -3,7 +3,9 @@ h1 {
   text-shadow: 1px 1px 1px red,
                2px 2px 1px red;
 }
-
+h2 {
+  color: yellow;
+}
 p {
   background-color: white;
 }
